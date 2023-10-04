@@ -26,7 +26,7 @@ Fit the model and then predict
 
 ## PROGRAM
 ## Developed By: Senthil Kumar S
-## Register No.: 212221230091
+## Register No: 212221230091
 
 ### Libraries
 ```py
